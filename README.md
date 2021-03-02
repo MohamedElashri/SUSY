@@ -3,7 +3,7 @@ Experimenting Machine Learning Techniques on SUSY dataset.
 
 ##  Dataset
 
-I'm using a montecarlo generated SUSY dataset. This dataset introduced in [1], The supersymmetry data set consists of 5,000,000 Monte-Carlo samples of supersymmetric and non-supersymmetric collisions with 18 features. The signal process is the production of electrically-charged supersymmetric particles which decay to W bosons and an electrically-neutral supersymmetric particle that is invisible to the detector. 
+I'm using a Monte Carlo generated SUSY dataset. This dataset introduced in [1], The supersymmetry data set consists of 5,000,000 Monte-Carlo samples of supersymmetric and non-supersymmetric collisions with 18 features. The signal process is the production of electrically-charged supersymmetric particles which decay to W bosons and an electrically-neutral supersymmetric particle that is invisible to the detector. 
 
 The first 8 features are considered low which means that they can directly be measured from collisions. The other 10 are high-level featured which means that they are reconstructed (reconstruction in particle physics means hand constructed based on our physics knowledge). These high-level features are known to be important in our classification problem. 
 
