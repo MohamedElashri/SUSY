@@ -17,6 +17,6 @@ I want to have a real exercise about applying ML Algorithms on real particle phy
 
 
 
-
+## References
 [1] Baldi, P., Sadowski, P. & Whiteson, D. Searching for exotic particles in high-energy physics with deep learning. Nat Commun 5, 4308 (2014). https://doi.org/10.1038/ncomms5308
 
